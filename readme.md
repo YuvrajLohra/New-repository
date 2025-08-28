@@ -1,0 +1,1 @@
+This folder describes my strugge as an engineer 
